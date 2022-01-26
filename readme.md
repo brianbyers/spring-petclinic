@@ -1,5 +1,7 @@
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=main)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/5af897e6-e400-4305-8f61-0e70517bfcd4.svg?orgId=521549019486)](https://app.soluble.cloud/repos/details/github.com/brianbyers/spring-petclinic?orgId=521549019486)  
+
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
